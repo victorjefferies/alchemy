@@ -1,6 +1,6 @@
 
 All code is yours to own.
-- gem install bundler 
+- gem install bundler
 - bundle install
 
 Available rake tasks:
